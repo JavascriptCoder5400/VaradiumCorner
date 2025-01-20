@@ -1,0 +1,23 @@
+body {
+	margin:0px;
+}
+#topbar {
+	width:100vw;
+    height:55px;
+    background-color:#2C6B4F;
+}
+#vclogo {
+	width:125px;
+    height:55px;
+}
+.topredirect {
+	position:absolute;
+    text-align:center;
+    line-height:55px;
+    height:55px;
+    font-family:verdana;
+	color:#FFFFFF;
+}
+.topredirect:hover {
+	color:#EEEEEE;
+}
